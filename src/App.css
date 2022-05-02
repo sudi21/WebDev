@@ -1,0 +1,13 @@
+.App .tlogo .logo{
+  background-color: black;
+}
+
+.App .btn{
+
+  display: flex;
+
+}
+
+.App .lang .para .imga{
+  max-width: 25%;
+}
